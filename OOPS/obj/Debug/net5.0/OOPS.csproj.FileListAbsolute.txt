@@ -1,0 +1,16 @@
+C:\Users\ELCOT\source\repos\OOPS\OOPS\bin\Debug\net5.0\OOPS.exe
+C:\Users\ELCOT\source\repos\OOPS\OOPS\bin\Debug\net5.0\OOPS.deps.json
+C:\Users\ELCOT\source\repos\OOPS\OOPS\bin\Debug\net5.0\OOPS.runtimeconfig.json
+C:\Users\ELCOT\source\repos\OOPS\OOPS\bin\Debug\net5.0\OOPS.runtimeconfig.dev.json
+C:\Users\ELCOT\source\repos\OOPS\OOPS\bin\Debug\net5.0\OOPS.dll
+C:\Users\ELCOT\source\repos\OOPS\OOPS\bin\Debug\net5.0\ref\OOPS.dll
+C:\Users\ELCOT\source\repos\OOPS\OOPS\bin\Debug\net5.0\OOPS.pdb
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\OOPS.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\OOPS.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\OOPS.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\OOPS.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\OOPS.dll
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\ref\OOPS.dll
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\OOPS.pdb
+C:\Users\ELCOT\source\repos\OOPS\OOPS\obj\Debug\net5.0\OOPS.genruntimeconfig.cache
